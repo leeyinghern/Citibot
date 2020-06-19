@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1031480904493",
+    "firebase_url": "https://citibotdb-plttfj.firebaseio.com",
+    "project_id": "citibotdb-plttfj",
+    "storage_bucket": "citibotdb-plttfj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031480904493:android:8504dcf356d2d6050761a4",
+        "android_client_info": {
+          "package_name": "com.leeyinghern.citichatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031480904493-o10hgr3lfg8lcp6fr8uibpaa1u7t1n75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHci_RffhKTPCSB_Er_0XZXFMSbcOaVtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031480904493-d24kbgm4l16ql1h4rhfg5gaooiued8hh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,2 +1,4 @@
-# citibot
+# Citibot
+
+Capstone Project for Citibank.
  
